@@ -1,0 +1,16 @@
+<html>
+<body>
+<?php
+$x=6;
+$y=4;
+$sum=$x+$y;
+$dif=$x-$y;
+$pro=$x*$y;
+$div=$x/$y;
+echo("Sum:".$sum."<br>");
+echo("Difference:".$dif."<br>");
+echo("Product:".$pro."<br>");
+echo("Division:".$div."<br>");
+?>
+</body>
+</html>
